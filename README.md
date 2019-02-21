@@ -1,2 +1,2 @@
 # LibQuests
-LibQuests is a standalone, library add-on to create and/or update ESO Quest and Questgiver information tables.
+Quest tables library add-on for the QuestMap 2 project.
